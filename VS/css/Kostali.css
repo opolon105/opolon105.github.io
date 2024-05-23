@@ -1,0 +1,23 @@
+.h{
+    text-align: center;
+}
+p{
+    margin: 0%;
+    text-align: justify;
+
+}
+.pp{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.in{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #151926;
+    color: white;
+    font-family: Arial, sans-serif;
+
+}
